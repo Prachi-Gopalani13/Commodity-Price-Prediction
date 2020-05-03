@@ -5,6 +5,7 @@ Gold price prediction
 A little command-line app to download historical data in CSV format from,
 
 • https://www.investing.com/commodities/gold-historical-data
+
 • https://www.investing.com/commodities/silver-historical-data
 
 ## Commodities
