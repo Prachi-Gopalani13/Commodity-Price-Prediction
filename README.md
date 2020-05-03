@@ -9,8 +9,8 @@ A little command-line app to download historical data in CSV format from,
 • https://www.investing.com/commodities/silver-historical-data
 
 ## Commodities
-The program supports commodities from US for Gold and Silver.
-Past 10 year data of gold & silver is downloaded for answering Q2 / Q3 using below commands
+The program supports commodities for Gold and Silver.
+Past 10 year data of gold & silver is downloaded for answering and ARIMA Model is applied.
 
 ## Code
 Code is provided in the commodities_data.ipynb notebook file. Also be required to use the included historical-gold.csv, historical-silver.csv dataset file.
