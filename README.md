@@ -13,7 +13,7 @@ The program supports commodities for Gold and Silver.
 Past 10 year data of gold & silver is downloaded for answering and ARIMA Model is applied.
 
 ## Code
-Code is provided in the commodities-price-prediction.ipynb notebook file. Also be required to use the included Gold Futures Historical data.csv, Silver.csv dataset file.
+Code is provided in the commodities-price-prediction.ipynb notebook file. Also be required to use the included Gold Futures Historical data.csv, Silver Futures Historical data.csv dataset file.
 
 ### Install
 
