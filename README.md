@@ -15,17 +15,15 @@ Past 10 year data of gold & silver is downloaded for answering Q2 / Q3 using bel
 ## Code
 Code is provided in the commodities_data.ipynb notebook file. Also be required to use the included historical-gold.csv, historical-silver.csv dataset file.
 
-## Install
-This project requires Python 2.7(if you complete this project in Python 3.x, you will have to update the code in various places including all relevant print statements) and the following Python libraries installed:
+### Install
 
-NumPy
+This project requires **Python 2.7**(if you complete this project in Python 3.x, you will have to update the code in various places including all relevant print statements) and the following Python libraries installed:
 
-Pandas
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
 
-matplotlib
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-scikit-learn
-
-You will also need to have software installed to run and execute a Jupyter Notebook
-
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included.
