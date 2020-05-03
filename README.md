@@ -19,9 +19,13 @@ Code is provided in the commodities_data.ipynb notebook file. Also be required t
 This project requires Python 2.7(if you complete this project in Python 3.x, you will have to update the code in various places including all relevant print statements) and the following Python libraries installed:
 
 NumPy
+
 Pandas
+
 matplotlib
+
 scikit-learn
+
 You will also need to have software installed to run and execute a Jupyter Notebook
 
 If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
